@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "ml-env\\Scripts\\python.exe",
+  "python.analysis.typeCheckingMode": "basic",
+  "jupyter.askForKernelRestart": false,
+  "jupyter.interactiveWindow.creationMode": "perFile"
+}
