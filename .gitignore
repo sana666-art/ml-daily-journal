@@ -1,5 +1,24 @@
 ml-env/
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
 .env
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Python packages
+*.egg-info/
+dist/
+build/
+
+# Datasets and outputs
+Datasets/
+
+# Logs
+*.log
